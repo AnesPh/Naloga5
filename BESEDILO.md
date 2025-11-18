@@ -38,4 +38,5 @@ S tem se zmanjša možnost konfliktov in izgube podatkov. To je sprememba od vlo
 | `git log` | Prikaže zgodovino commitov |
 
 
-
+To je sprememba po uspešnem merge-u. (Sumeja)
+Test za git diff (Sumeja)
